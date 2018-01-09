@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<style>
+			body{text-align:center}
+			.m-box{width:200px;height:200px;position:relative;margin:100px auto;background:#00ED70;border-radius:50%;}
+			.m-duigou{width:100px;height:50px;position:absolute;left:50%;top:50%;margin:-40px 0 0 -50px;-webkit-transform:rotate(-45deg);transform:rotate(-45deg);overflow:hidden}
+			.m-duigou:before,.m-duigou:after{content:"";position:absolute;background:#fff;border-radius:2px}
+			.m-duigou:before{width:2px;height:50px;left:0;-webkit-animation:dgLeft 0.5s linear 3s 1 both;animation:dgLeft 0.5s linear 1s 1 both}
+			.m-duigou:after{width:100px;height:2px;bottom:0;-webkit-animation:dgRight 0.5s linear 3.5s 1 both;animation:dgRight 0.5s linear 1.5s 1 both}
+			@-webkit-keyframes dgLeft{0%{top:-100%}100%{top:0%}}
+			@-webkit-keyframes dgLeft{0%{top:-100%}100%{top:0%}}
+			@-webkit-keyframes dgRight{0%{left:-100%}100%{left:0%}}
+			@-webkit-keyframes dgRight{0%{left:-100%}100%{left:0%}}
+
+		</style>
+	</head>
+	<body>
+		<div class="m-box">
+			<div class="m-duigou"></div>
+		</div>
+
+	</body>
+</html>
