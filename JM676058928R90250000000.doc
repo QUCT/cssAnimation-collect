@@ -1,0 +1,363 @@
+<html xmlns="http://www.w3.org/TR/REC-html40" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"><head><meta name="ProgId" content="Word.Document" /><meta name="Generator" content="Microsoft Word 12" /><meta name="Originator" content="Microsoft Word 12" /><link rel="File-List" href="resume_word1.files/filelist.xml" /><link rel="Edit-Time-Data" href="resume_word1.files/editdata.mso" /><link rel="themeData" href="resume_word1.files/themedata.thmx" /><link rel="colorSchemeMapping" href="resume_word1.files/colorschememapping.xml" />
+
+          <!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:DrawingGridHorizontalSpacing>5.25 磅</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>ZH-CN</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><[endif]-->
+        <!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+
+        <style type="text/css">
+          td,p,div,span {font-size:12px;color:#000000;font-family:宋体;}
+          td{line-height:20px;}
+          .btnbox{ width:600px; height:100px;}
+          .yelline{height:3px;  width:176px; float:left; margin-top:12px; font-size:1;}
+          .btnbox-mid{  float:left; text-align:center}
+          .btnbox-yelbtn{font:500 20px Microsoft YaHei; color:#fff; padding:5px 10px; background-color:#eb6100; text-decoration:none;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px; border-bottom:2px #e54d00 solid; }
+          .Clicktext{ color:#004e9c}
+          .footercont{width:600px; border-top:1px #e1e1e1 solid;text-align:center;line-height:20px; padding:10px 0;background:#f6f7f9;color:#a3a4a9;}
+          .space-left{padding-left:3px;}
+          .space{padding:0 3px 0 3px}
+        </style></head><span style="display:none;">
+        ID:JM676058928R90250000000</span><table width="640" cellpadding="0" cellspacing="0" border="0"><tr height="85"><td align="right" width="213"><img src="https://img00.zhaopin.cn/2014/c/img/logo15624.png" width="201" height="70" /></td><td /></tr><tr><td height="3" colspan="2" /></tr><tr><td height="3" colspan="2" /></tr><tr><td height="10" /></tr></table><table width="640" align="center" cellpadding="0" cellspacing="0" border="0" style="font-size: 14px;font-family: 宋体;"><tr><td><table width="640" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td colspan="3" height="10" /></tr><tr><td valign="top" width="466"><table width="466" cellpadding="0" cellspacing="0" border="0" style="word-break: break-all; word-wrap:break-word;"><tr style="width:100%;height:50px"><td style="font-size:22px;color:#333333;font-family:'微软雅黑';padding-left:12px;line-height:50px">王淇</td></tr><tr width="466" style="height:30px"><td width="466" style="font-size:12px;color:#000000;line-height:24px;padding-left:12px;word-break: break-all; word-wrap:break-word;"><font style="font-weight:bold">男</font><small>|</small><font style="font-weight:bold">3年工作经验</font><small>|</small><font style="font-weight:bold">1994年6月</font><br />现居住于陕西 西安<small>|</small>本科<small style="word-break:break-all;" class="space-left">|</small>
+                                户口甘肃-嘉峪关<br />手机：131****6381<br />E-mail：<a href="mailto:quct_****@163.com">quct_****@163.com</a></td></tr></table></td><td width="80"><div class="photo" style="padding: 0px 5px 5px 5px"><a target="_blank" href="https://img00.zhaopin.cn/2012/img/my/v5/lookResumes.jpg"><img border="
+                                0
+                              " width="
+                                70
+                              " height="
+                                90
+                              " style="
+                                vertical-align:middle
+                              " src="https://img00.zhaopin.cn/2012/img/my/v5/lookResumes.jpg" /></a></div></td><td width="6" /></tr><tr><td colspan="3" height="10" /></tr></table></td></tr><tr><td height="10" /></tr><tr><td><table width="600" align="center" cellpadding="0" cellspacing="0" border="0" style="word-break: break-all; word-wrap:break-word;"><tr><td><table width="600" height="30" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;padding-left:5px;word-break: break-all; word-wrap:break-word;"><span style="color:#ffffff;font-size:14px;">WEB前端/混合开发，个人网站quct-s.com</span></td></tr></table><table width="600"><tr><td colspan="2" height="5" /></tr><tr><td colspan="2" style="line-height:18px;word-break:break-all;word-wrap:break-word;padding-left:12px;">1个人网站 http://quct-s.com/<br/>2个人博客 http://quct-s.com/wordpress/<br/>3页面布局：弹性布局、、Rem布局、响应式布局适应各种移动端。<br/>4原生JS：bom、dom、ajax、jsonp<br/>5mobile：Iscroll、Swiper、Amaze UI（mobile）<br/>6css框架：Bootstrap、Framework7<br/>7微信小程序开发 vue.js’<br/>8代码托管：Git<br/>9脚手架：gulp、webpack<br/>10 我认为我最大的特点与优势就是极强的自学意识和对所从事行业的热爱，在前端框架与技术百家争鸣的今天，自主学习和危机意识在我看来是很重要的，而且我热爱程序员。<br/> 在工作中面临的最大挑战是面对一个完全陌生的体系的处理，因为我一开始在工作只是因为喜欢前端这种能把优美的页面具体化的过程，在工作中跨专业、跨知识体系的问题太多了但我还是坚持了下来。<br/> 在找工作时我希望能找到一份有挑战的工作可以成长的工作，公司规模我不是很在意，我可以和公司一起成长，但时时刻刻面对挑战的感觉实在太棒了。</td></tr><tr height="6"><td colspan="2" height="5"><br /></td></tr><tr><td colspan="2" height="5" /></tr></table></td></tr></table></td></tr><tr><td><br /><table width="600" height="30" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;padding-left:5px;"><span style="color:#ffffff;font-size:14px;">求职意向</span></td></tr></table><br /><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td width="95" align="left" valign="top"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">工作性质：</p></td><td width="475" valign="top" style="color:#333333;word-break: break-all; word-wrap:break-word;">全职</td></tr><tr><td width="95" align="left" valign="top"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">期望职业：</p></td><td width="475" valign="top" style="color:#333333;word-break: break-all; word-wrap:break-word;">互联网软件工程师、WEB前端开发、脚本开发工程师、</td></tr><tr><td width="95" align="left" valign="top"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"> 期望行业：</p></td><td width="475" valign="top" style="color:#333333;word-break: break-all; word-wrap:break-word;">互联网/电子商务、计算机软件、通信/电信运营、增值服务</td></tr><tr><td width="95" align="left" valign="top"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">工作地区：</p></td><td width="475" valign="top" style="color:#333333;word-break: break-all; word-wrap:break-word;">西安</td></tr><tr><td width="95" align="left" valign="top"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">期望月薪：</p></td><td width="475" valign="top" style="color:#333333;word-break: break-all; word-wrap:break-word;">面议</td></tr><tr><td width="95" align="left" valign="top"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">目前状况：</p></td><td width="475" valign="top" style="color:#333333;word-break: break-all; word-wrap:break-word;">我目前处于离职状态，可立即上岗</td></tr></table></td></tr><tr><td><br /><table width="600" height="30" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;padding-left:5px;"><span style="color:#ffffff;font-size:14px;">工作经历</span></td></tr></table><br /><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td style="color:#333333;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2017/03
+                                      - 2017/10</p></td><td width="424" style="padding-left:14px; font-weight:bold;word-break: break-all; word-wrap:break-word;"><span style="display:inline-block;margin:0 2px">文思海辉软件有限公司</span><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">
+                                      （7个月）
+                                    </span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px; font-weight:bold;word-break: break-all; word-wrap:break-word; font-size:12px; font-family:'新宋体';"><span style="display:inline-block;margin:0 2px">前端开发工程师</span><font style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">|</font><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">6001-8000元/月</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">计算机软件</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>工作描述：</span>1 为四川省农信开发网上收单平台以及商户服务平台与内管平台。<br/>2利用利用bootstrap和vue以及echarts等框架搭建项目<br/></p></td></tr></table></td></tr><tr><td style="color:#333333;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2016/01
+                                      - 2017/01</p></td><td width="424" style="padding-left:14px; font-weight:bold;word-break: break-all; word-wrap:break-word;"><span style="display:inline-block;margin:0 2px">西安例外科技</span><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">
+                                      （1年）
+                                    </span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px; font-weight:bold;word-break: break-all; word-wrap:break-word; font-size:12px; font-family:'新宋体';"><span style="display:inline-block;margin:0 2px">web前端开发</span><font style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">|</font><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">50000-70000元/月</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">互联网/电子商务</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>工作描述：</span> 主要开发公司的后台管理系统</p></td></tr></table></td></tr><tr><td style="color:#333333;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2015/06
+                                      - 2015/12</p></td><td width="424" style="padding-left:14px; font-weight:bold;word-break: break-all; word-wrap:break-word;"><span style="display:inline-block;margin:0 2px">杭州多听科技有限公司</span><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">
+                                      （6个月）
+                                    </span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px; font-weight:bold;word-break: break-all; word-wrap:break-word; font-size:12px; font-family:'新宋体';"><span style="display:inline-block;margin:0 2px">前端web工程师</span><font style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">|</font><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">4001-6000元/月</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">计算机软件</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>工作描述：</span>多听科技(pc端)<br/>1、负责页面的内容重构,基于Bootstrap页面布局，有些地方也用了HTML5+CSS3的新属性<br/>2、负责与后台的数据交互<br/>3、负责页面后期的维护和优化通过 jQuery<br/>4、利用H5自带的Video标签重写了播放设置</p></td></tr></table></td></tr></table></td></tr><tr><td><br /><table width="600" height="30" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;padding-left:5px;"><span style="color:#ffffff;font-size:14px;">项目经验</span></td></tr></table><br /><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2017/05
+                                      - 2017/09</p></td><td width="424" style="padding-left:14px; font-weight:bold"><span style="display:inline-block;margin:0 2px">四川省农信网上收单系统</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>责任描述：</span>1负责开发收单系统模块页面及逻辑功能<br/>2负责与银联人员协调完成授权登录功能<br/>3负责第三方蜀信e网盾授权页面功能<br/>4负责与商城系统人员联调</p></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;"><p style="line-height:20px;word-break: break-all; word-wrap:break-word;"><span>项目简介：</span>暴露给四川省农信合作公司的收单支付系统</p></td></tr></table></td></tr><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2017/03
+                                      - 2017/07</p></td><td width="424" style="padding-left:14px; font-weight:bold"><span style="display:inline-block;margin:0 2px">四川省农信商户服务平台</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>责任描述：</span>1负责商户服务平台页面编写及逻辑模块编写<br/>2负责与后台人员共同交互完成数据展示 <br/>3负责平台后期的维护和需求的增改。<br/>4运用vue+vuex+vue-router+bootstrap完成平台搭建</p></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;"><p style="line-height:20px;word-break: break-all; word-wrap:break-word;"><span>项目简介：</span>为四川省农信合作的商户搭建的管理系统</p></td></tr></table></td></tr><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2016/10
+                                      - 2016/12</p></td><td width="424" style="padding-left:14px; font-weight:bold"><span style="display:inline-block;margin:0 2px">A索早教管理系统</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>责任描述：</span>1 利用easy ui 为该早教管理系统搭建页面</p></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;"><p style="line-height:20px;word-break: break-all; word-wrap:break-word;"><span>项目简介：</span></p></td></tr></table></td></tr><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2016/08
+                                      - 2016/09</p></td><td width="424" style="padding-left:14px; font-weight:bold"><span style="display:inline-block;margin:0 2px">白化病儿童宣传(微信场景)</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>责任描述：</span>&nbsp;&nbsp;&nbsp;&nbsp; 1、负责场景的所有设计与实现<br/>&nbsp;&nbsp;&nbsp;&nbsp; 2、负责图片的修剪和选取，负责构建页面，以及写自定义动画</p></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;"><p style="line-height:20px;word-break: break-all; word-wrap:break-word;"><span>项目简介：</span>1、简单的页面表达，文字的叙述等功能，展示简单的感情表达<br/>2、针对节日的特别意义，来实现场景的特别要求<br/>应用技术： <br/>&nbsp;&nbsp;&nbsp;&nbsp;1、使用HTML5+CSS3的新属性，使用Swiper技术，实现场景切换<br/>&nbsp;&nbsp;&nbsp;&nbsp; 2、使用swiper animation实现动画切换及效果</p></td></tr></table></td></tr><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2016/07
+                                      - 2016/10</p></td><td width="424" style="padding-left:14px; font-weight:bold"><span style="display:inline-block;margin:0 2px">畅易科技官网（pc端）</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>责任描述：</span>&nbsp;&nbsp;&nbsp;&nbsp;1、负责所有页面的优化与后期重构<br/>&nbsp;&nbsp;&nbsp;&nbsp; 2、负责前端与后台的数据交互</p></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;"><p style="line-height:20px;word-break: break-all; word-wrap:break-word;"><span>项目简介：</span>1、针对多听FM及公司推广而建的官方网站<br/>2、负责所有页面的优化与后期重构<br/>3、负责前端与后台的数据交互<br/>应用技术：&nbsp;&nbsp; <br/> 1、利用jQuery等框架对页面和功能完成编写<br/>&nbsp;&nbsp;&nbsp;&nbsp; 2、通过HTML5及CSS3实现一些页面效果</p></td></tr></table></td></tr><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2016/01
+                                      - 2016/06</p></td><td width="424" style="padding-left:14px; font-weight:bold"><span style="display:inline-block;margin:0 2px">霎那(APP已上线)</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>责任描述：</span>&nbsp;&nbsp;&nbsp;&nbsp; 1、负责模块搭建，实现页面效果<br/>&nbsp;&nbsp;&nbsp;&nbsp; 2、实现页面响应式设计，适配到android各主流手机，以及苹果手机<br/>&nbsp;&nbsp;&nbsp;&nbsp; 3、负责与后台的数据交互，提交数据，从后台获取相对应的结果并显示<br/>&nbsp;&nbsp;&nbsp;&nbsp; 4、负责页面后期的维护和优化</p></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;"><p style="line-height:20px;word-break: break-all; word-wrap:break-word;"><span>项目简介：</span>1、霎那是一款基于地理位置的旅行照片社交产品，用照片评点每个地方，让风景&nbsp;&nbsp;触手可及。<br/>应用技术： <br/>&nbsp;&nbsp;&nbsp;&nbsp;1、使用HTML5+CSS3的新属性<br/>&nbsp;&nbsp;&nbsp;&nbsp; 2、运用了Amaze UI框架对页面的编写<br/>&nbsp;&nbsp;&nbsp;&nbsp; 3、地理位置定位，调用手机GPS和高德定位。<br/>&nbsp;&nbsp;&nbsp;&nbsp; 4、通过 jQuery框架及CSS3实现一些页面效果</p></td></tr></table></td></tr></table></td></tr><tr><td><br /><table width="600" height="30" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;padding-left:5px;"><span style="color:#ffffff;font-size:14px;">教育经历</span></td></tr></table><br /><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0"><tr height="20"><td width="132" style=" font-size:12px; font-family:'新宋体';" valign="top"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2012/08 - 2016/06</p></td><td width="412" style="word-break: break-all; word-wrap:break-word;padding-left:12px;"><span style="display:inline-block;margin-right:12px;font-weight:normal;">莆田学院</span><span style="display:inline-block;margin-right:12px;font-weight:normal;">
+                                      &nbsp;计算机科学与技术</span><span style="display:inline-block;margin-right:12px;font-weight:normal;">
+                                        &nbsp;统招</span><span style="display:inline-block;margin-right:12px;font-weight:normal;">
+                                      &nbsp;本科</span></td></tr></table></td></tr></table></td></tr><tr><td><br /><table width="600" height="30" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;padding-left:5px;"><span style="color:#ffffff;font-size:14px;">证书</span></td></tr></table><br /><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0"><tr height="20"><td width="54" style="padding-left:12px;">2014/05</td><td width="500" style="padding-left:12px;"><span style="display:inline-block;margin-right:12px;">大学英语四级</span></td></tr></table></td></tr></table></td></tr><tr><td><br /><table width="600" height="30" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;padding-left:5px;"><span style="color:#ffffff;font-size:14px;">语言能力</span></td></tr></table><br /><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0"><tr height="20"><td style="padding-left:12px;"><span style="display:inline-block;">英语：
+                                        </span><span style="display:inline-block;">
+                                          读写能力&nbsp;熟练</span><font style="display:inline-block;padding-left:4px;">|</font><span style="display:inline-block;padding-left:4px;">
+                                          听说能力&nbsp;熟练</span></td></tr></table></td></tr></table></td></tr><tr><td><br /><table width="600" height="30" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;padding-left:5px;"><span style="color:#ffffff;font-size:14px;">专业技能</span></td></tr></table><br /><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0"><tr height="20"><td style="padding-left:12px;"><span style="display:inline-block;margin-right:4px;">Framework7</span><span style="display:inline-block;margin-right:4px;">
+                                      &nbsp;良好</span><font style="display:inline-block;margin-right:4px;">|</font><span style="display:inline-block;margin-right:4px;">6</span></td></tr><tr height="20"><td style="padding-left:12px;"><span style="display:inline-block;margin-right:4px;">angular.js</span><span style="display:inline-block;margin-right:4px;">
+                                      &nbsp;良好</span><font style="display:inline-block;margin-right:4px;">|</font><span style="display:inline-block;margin-right:4px;">10</span></td></tr><tr height="20"><td style="padding-left:12px;"><span style="display:inline-block;margin-right:4px;">vue.js</span><span style="display:inline-block;margin-right:4px;">
+                                      &nbsp;良好</span><font style="display:inline-block;margin-right:4px;">|</font><span style="display:inline-block;margin-right:4px;">8</span></td></tr><tr height="20"><td style="padding-left:12px;"><span style="display:inline-block;margin-right:4px;">Bootstrap</span><span style="display:inline-block;margin-right:4px;">
+                                      &nbsp;熟练</span><font style="display:inline-block;margin-right:4px;">|</font><span style="display:inline-block;margin-right:4px;">10</span></td></tr><tr height="20"><td style="padding-left:12px;"><span style="display:inline-block;margin-right:4px;">Jquery</span><span style="display:inline-block;margin-right:4px;">
+                                      &nbsp;熟练</span><font style="display:inline-block;margin-right:4px;">|</font><span style="display:inline-block;margin-right:4px;">10</span></td></tr><tr height="20"><td style="padding-left:12px;"><span style="display:inline-block;margin-right:4px;">css</span><span style="display:inline-block;margin-right:4px;">
+                                      &nbsp;精通</span><font style="display:inline-block;margin-right:4px;">|</font><span style="display:inline-block;margin-right:4px;">16</span></td></tr><tr height="20"><td style="padding-left:12px;"><span style="display:inline-block;margin-right:4px;">Html</span><span style="display:inline-block;margin-right:4px;">
+                                      &nbsp;精通</span><font style="display:inline-block;margin-right:4px;">|</font><span style="display:inline-block;margin-right:4px;">16</span></td></tr><tr height="20"><td style="padding-left:12px;"><span style="display:inline-block;margin-right:4px;">javascript</span><span style="display:inline-block;margin-right:4px;">
+                                      &nbsp;熟练</span><font style="display:inline-block;margin-right:4px;">|</font><span style="display:inline-block;margin-right:4px;">12</span></td></tr></table></td></tr></table></td></tr></table></td></tr></table><br /></html>
